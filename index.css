@@ -1,4 +1,5 @@
   @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Merriweather:wght@400;700;900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
 
   * {
       margin: 0;
@@ -8,8 +9,8 @@
   }
 
   body {
-      font-family: 'Fjalla One', sans-serif;
       font-family: 'Merriweather', serif;
+      font-family: 'Wix Madefor Text', sans-serif;
   }
 
   nav {
@@ -24,7 +25,7 @@
   }
 
   .list {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
       font-size: 14px;
@@ -44,7 +45,7 @@
   }
 
   .telnum {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 600;
       font-size: 16px;
@@ -54,7 +55,7 @@
   }
 
   .ishVaqti {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
       font-size: 14px;
@@ -106,7 +107,7 @@
   }
 
   .TEXT1 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor TextWix Madefor Text';
       font-style: normal;
       font-weight: 700;
       font-size: 14px;
@@ -120,7 +121,7 @@
   }
 
   .inp1 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
       font-size: 16px;
@@ -179,7 +180,7 @@
   }
 
   .sar1 span {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 300;
       font-size: 14px;
@@ -225,7 +226,7 @@
   }
 
   .sar2 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 700;
       font-size: 18px;
@@ -237,7 +238,7 @@
   }
 
   .sar2 span {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
       font-size: 14px;
@@ -279,7 +280,7 @@
   }
 
   .text3 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 600;
       font-size: 14px;
@@ -317,7 +318,7 @@
   }
 
   .text4 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
       font-size: 18px;
@@ -326,7 +327,7 @@
   }
 
   .btn3 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 700;
       font-size: 15px;
@@ -373,7 +374,7 @@
   }
 
   .btn4 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 700;
       font-size: 15px;
@@ -392,8 +393,9 @@
   }
 
   .section2 {
-      /* margin-top: 30px; */
+      margin-top: -63px;
       padding-top: 30px;
+      padding-bottom: 30px;
       background: #EDEDED;
   }
 
@@ -437,7 +439,7 @@
   }
 
   .text7 {
-      font-family: 'Proxima Nova';
+      font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
       font-size: 16px;
@@ -458,6 +460,216 @@
       padding: 20px;
   }
 
-  .section4{
-    margin-top: 20px;
+  .section4 {
+      margin-top: 20px;
+  }
+
+  .section5 {
+      background: #3B4355;
+      border-radius: 6px;
+      margin-top: 36px;
+      padding: 30px 489px;
+  }
+
+  .sar8 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 120%;
+      text-align: center;
+      color: #F0EFED;
+      margin-top: 30px;
+  }
+
+  .sar8 span {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 45px;
+      line-height: 120%;
+      text-align: center;
+      color: #EEB256;
+  }
+
+  .bgbg {
+      /* Note: backdrop-filter has minimal browser support */
+      /* background: #C2B7AF; */
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      /* padding: 20px; */
+      border: 2px solid rgba(255, 0, 0, 0);
+      width: 303px;
+      height: 514px;
+  }
+
+  .rasm {
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      margin-top: 290px;
+      margin-left: -40px;
+  }
+
+  .ochQora {
+      background: rgba(37, 25, 22, 0.7);
+      backdrop-filter: blur(10px);
+      border-radius: 7px;
+      margin: 14px;
+      padding: 20px 24px;
+      width: 270px;
+  }
+
+  .text8 {
+      font-family: 'sans-serif';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 180%;
+      color: #F0EFED;
+  }
+
+  .btn5 {
+      font-family: 'Proxima Nova';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 18px;
+      color: #FFFFFF;
+      background: #EEB256;
+      border-radius: 5px;
+      border: none;
+      padding: 16px 68px;
+      margin-top: 142px;
+  }
+
+  .sar10 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 34px;
+      line-height: 43px;
+      color: #311E19;
+      margin-top: 86px !important;
+      margin-bottom: 48px;
+  }
+
+  .hedding1 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      color: #311E19;
+  }
+
+  .OQdiv2 {
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      border: 2px solid rgba(255, 0, 0, 0);
+      width: 303px;
+      height: 514px;
+  }
+
+  .logo1 {
+      width: 62px;
+      height: 53px;
+
+  }
+
+  .logo1Div {
+      display: flex;
+      justify-content: center;
+      margin-top: 69px;
+  }
+
+  .Sumka1Div {
+      margin-top: -95px;
+      margin-left: -3px;
+  }
+
+  .DIV1 {
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      width: 635px;
+      height: 242px;
+      display: flex;
+      justify-content: center;
+  }
+
+  .rasmVatext {
+      text-align: center;
+      margin-top: 60px;
+      margin-left: 50px;
+  }
+
+  .rasm1 {
+      width: 50px;
+      height: 51px;
+  }
+
+  .text10 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      color: #311E19;
+  }
+
+  .a {
+      margin-top: 30px;
+      border: 2px solid rgba(255, 0, 0, 0);
+  }
+
+  .TextDiv2 {
+      display: flex;
+      gap: 36px;
+  }
+
+  .list2 {
+      font-family: 'Proxima Nova';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 180%;
+      color: #F0EFED;
+  }
+
+  .QoraDiv2 {
+      background: rgba(37, 25, 22, 0.7);
+      backdrop-filter: blur(10px);
+      border-radius: 7px;
+      width: 595px;
+      height: 202px;
+      padding: 24px 0px;
+      margin-top: 20px;
+  }
+
+  .imageDiv3 {
+      position: absolute;
+      margin-right: -270px;
+  }
+
+  .btn4 {
+      font-family: 'Proxima Nova';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 18px;
+      color: #FFFFFF;
+      background: #EEB256;
+      border-radius: 5px;
+      width: 543px;
+      height: 50px;
+      margin-top: 30px;
+  }
+
+  .BTNDiv3{
+    text-align: center;
   }
