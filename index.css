@@ -670,6 +670,55 @@
       margin-top: 30px;
   }
 
-  .BTNDiv3{
-    text-align: center;
+  .BTNDiv3 {
+      text-align: center;
+  }
+
+  .kichikDiv1 {
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      width: 469px;
+      height: 242px;
+      display: flex;
+      position: relative;
+  }
+
+  .KattaDiv4 {
+      display: flex;
+      gap: 30px;
+  }
+
+  .image3 {
+      margin-top: -10px;
+      width: 60px;
+      height: 50px;
+  }
+
+  .hedding3 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 32px;
+      line-height: 40px;
+      color: #311E19;
+  }
+
+  .Text_IconDiv1 {
+      text-align: center;
+      margin-top: 75px;
+      margin-left: 70px;
+  }
+
+  .podyashki_img {
+      margin-left: -3px;
+  }
+
+  .Section7 {
+      margin-top: 30px;
+  }
+
+  .img3{
+    margin-top: -30px;
+    margin-left: 24px;
   }
