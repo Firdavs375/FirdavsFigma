@@ -48,17 +48,21 @@
       font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 600;
-      font-size: 16px;
+      font-size: 12px;
       color: #311E19;
       padding: 0;
       margin: 0;
+  }
+
+  .textDiv1{
+    margin-left: 8px;
   }
 
   .ishVaqti {
       font-family: 'Wix Madefor Text';
       font-style: normal;
       font-weight: 400;
-      font-size: 14px;
+      font-size: 12px;
       letter-spacing: -0.007em;
       color: #311E19;
       padding: 0;
@@ -267,7 +271,15 @@
       border: 1px solid #311E191A;
       gap: 5px;
       padding: 0 5px;
+      color: #311E19;
+
   }
+
+  .IMGtextDiv:hover {
+      background: rgba(77, 33, 33, 0.813);
+      color: #fff;
+  }
+
 
   .icon {
       width: 24px;
@@ -286,7 +298,6 @@
       font-size: 14px;
       line-height: 17px;
       letter-spacing: 0.003em;
-      color: #311E19;
       padding-top: 15px;
   }
 
@@ -574,13 +585,13 @@
       height: 514px;
   }
 
-  .logo1 {
+  .logo2 {
       width: 62px;
       height: 53px;
 
   }
 
-  .logo1Div {
+  .logo2Div {
       display: flex;
       justify-content: center;
       margin-top: 69px;
@@ -656,7 +667,7 @@
       margin-right: -270px;
   }
 
-  .btn4 {
+  .btn6 {
       font-family: 'Proxima Nova';
       font-style: normal;
       font-weight: 700;
@@ -665,6 +676,7 @@
       color: #FFFFFF;
       background: #EEB256;
       border-radius: 5px;
+      border: none;
       width: 543px;
       height: 50px;
       margin-top: 30px;
@@ -711,14 +723,18 @@
   }
 
   .podyashki_img {
-      margin-left: -3px;
+    margin-left: 40px;
   }
 
   .Section7 {
       margin-top: 30px;
   }
 
-  .img3{
-    margin-top: -30px;
-    margin-left: 24px;
+  .img3 {
+      margin-top: -30px;
+      margin-left: 50px;
+  }
+  
+  .b:hover{
+    box-shadow: 1px -1px 10px #EEB256;
   }
