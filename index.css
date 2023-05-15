@@ -54,8 +54,8 @@
       margin: 0;
   }
 
-  .textDiv1{
-    margin-left: 8px;
+  .textDiv1 {
+      margin-left: 8px;
   }
 
   .ishVaqti {
@@ -723,7 +723,7 @@
   }
 
   .podyashki_img {
-    margin-left: 40px;
+      margin-left: -2px;
   }
 
   .Section7 {
@@ -732,9 +732,134 @@
 
   .img3 {
       margin-top: -30px;
-      margin-left: 50px;
+      margin-left: 25px;
   }
-  
-  .b:hover{
-    box-shadow: 1px -1px 10px #EEB256;
+
+  .b:hover {
+      box-shadow: 1px -1px 10px #EEB256;
+  }
+
+  .AksusuarDiv2 {
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      width: 303px;
+      height: 514px;
+      border: 2px solid rgba(255, 0, 0, 0);
+  }
+
+  .TextVAIconDiv {
+      text-align: center;
+      margin-top: 55px;
+  }
+
+  .iconAk {
+      width: 60px;
+      height: 51px;
+  }
+
+  .IMAGEak {
+      margin-top: 10px;
+  }
+
+  .KattaDiv5 {
+      margin-top: 30px;
+  }
+
+  .perchatkiRasm {
+      position: absolute;
+      margin-left: 110px;
+  }
+
+  .BirinchiDiv {
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      width: 302px;
+      height: 242px;
+      border: 2px solid rgba(255, 0, 0, 0);
+  }
+
+
+  .brasletIcon {
+      width: 52px;
+      height: 52px;
+  }
+
+  .sar11 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      color: #311E19;
+  }
+
+  .TextIconDiv6 {
+      position: relative;
+      text-align: center;
+      margin-top: 60px;
+      margin-left: 20px;
+  }
+
+  .BrasletImage1 {
+      position: absolute;
+      margin-left: 67px;
+      margin-top: 20px;
+      height: 220px;
+  }
+
+  .mt30 {
+      margin-top: 30px;
+  }
+
+  .IkkinchiDiv {
+      background: linear-gradient(180deg, #E2DAD5 0%, #C2B7AF 100%);
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+      border-radius: 3px;
+      border: 2px solid rgba(255, 0, 0, 0);
+      width: 469px;
+      height: 242px;
+      display: flex;
+      /* gap: 10px; */
+  }
+
+  .KatttaDiv4 {
+      display: flex;
+      gap: 30px;
+  }
+
+  .TextVaIconDiv1 {
+      text-align: center;
+      margin-top: 60px;
+      margin-left: 70px;
+  }
+
+  .JenRemenImage {
+      position: absolute;
+      margin-left: 84px;
+  }
+
+  .Icon7 {
+      width: 52px;
+      height: 52px;
+  }
+
+  .sar12 {
+      font-family: 'Merriweather';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 32px;
+      line-height: 40px;
+      text-align: center;
+      color: #311E19;
+  }
+
+  .JenKashlokImage{
+    margin-left: -34px;
+  }
+
+  .section8{
+    
   }
